@@ -22,7 +22,9 @@ add environment variables:
 Content-Type = application/json
 x-proxy-auth = your secret code that you used for the "PROXY_SRCRET" variable
 - body:
-{
+```{
 "name": "the gamepass name",
 "price": "the gamepass price",
-"
+"universeId": "the id Roblox gave for your game",
+"description": "the gamepass description"
+}```
