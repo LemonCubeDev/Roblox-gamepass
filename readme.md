@@ -27,4 +27,4 @@ x-proxy-auth = your secret code that you used for the "PROXY_SRCRET" variable
 "price": "the gamepass price",
 "universeId": "the id Roblox gave for your game",
 "description": "the gamepass description"
-}```
+}
