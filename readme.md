@@ -11,7 +11,6 @@ build command: npm install
 start command: npm start
 
 add environment variables:
-- DISCORD_TOKEN = your discord bot's token
 - PROXY_SECRET = random code
 - ROBLOX_API_KEY_GAMEPASS = your Roblox API key that has gamepass - write permission 
 
