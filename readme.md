@@ -19,6 +19,7 @@ add environment variables:
 - method = POST
 - url = https://your-service-name.onrender.com/create-gamepass
 - headers:
+```
 Content-Type = application/json
 x-proxy-auth = your secret code that you used for the "PROXY_SRCRET" variable
 - body:
